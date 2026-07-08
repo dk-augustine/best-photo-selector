@@ -1,0 +1,6 @@
+{
+  "name": "Best Photo Selector",
+  "description": "Compare duplicate or burst photos side-by-side, zoom into faces synchronously, and use server-side Gemini AI to evaluate facial expressions, blurriness, and closed eyes to select the perfect keeper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
